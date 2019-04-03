@@ -41,6 +41,8 @@ packages/
 /generated-files
 nbactions.xml
 
+samples/*
+
 # scalatra
 samples/server-generator/scalatra/output
 samples/server-generator/scalatra/target
